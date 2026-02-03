@@ -1,4 +1,4 @@
-# 🏦 CashForge Nigeria Limited - Web Platform
+# 🏦 CashForge Nigeria Limited
 
 ![CashForge Banner](https://via.placeholder.com/1000x300/00674E/FFFFFF?text=CASHFORGE+|+FORGING+RELIABLE+FINANCIAL+AID)
 
@@ -61,5 +61,5 @@ Our visual identity is engineered to communicate **Authority** and **Action**.
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Akrosoft-Technology-Limited/cash-forge-web.git
+   git clone https://github.com/Akrosoft-Technology-Limited/cash-forge.git
    cd cash-forge-web
